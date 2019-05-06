@@ -1,0 +1,14 @@
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\bin\Debug\netstandard2.0\ProyectoBinding.deps.json
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\bin\Debug\netstandard2.0\ProyectoBinding.dll
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\bin\Debug\netstandard2.0\ProyectoBinding.pdb
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\obj\Debug\netstandard2.0\ProyectoBinding.csprojAssemblyReference.cache
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\obj\Debug\netstandard2.0\ProyectoBinding.csproj.CoreCompileInputs.cache
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\obj\Debug\netstandard2.0\ProyectoBinding.AssemblyInfoInputs.cache
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\obj\Debug\netstandard2.0\ProyectoBinding.AssemblyInfo.cs
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\obj\Debug\netstandard2.0\ProyectoBinding.dll
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\obj\Debug\netstandard2.0\ProyectoBinding.pdb
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\obj\Debug\netstandard2.0\BindingClases.xaml.g.cs
+F:\Xamarin\ProyectoBinding\ProyectoBinding\ProyectoBinding\obj\Debug\netstandard2.0\BindingObjetos.xaml.g.cs

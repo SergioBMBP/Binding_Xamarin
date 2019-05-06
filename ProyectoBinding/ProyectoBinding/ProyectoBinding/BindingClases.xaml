@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoBinding.BindingClases">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="{Binding Nombre}"               
+                HorizontalOptions="FillAndExpand" />
+            <Image Source="{Binding Imagen}" WidthRequest="160" HeightRequest="100" HorizontalOptions="Center"/>
+            <Label Text="{Binding Edad}"               
+                HorizontalOptions="FillAndExpand" />
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
